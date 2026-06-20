@@ -1,4 +1,4 @@
-# Generative Modeling — Assignment Notebooks
+# Generative Modeling
 
 A series of 10 Jupyter notebooks covering the theory and implementation of modern generative models, from probability foundations through advanced score-based methods.
 
