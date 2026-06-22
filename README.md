@@ -23,3 +23,6 @@ A series of 10 Jupyter notebooks covering the theory and implementation of moder
 - PyTorch
 - NumPy, Matplotlib
 - Jupyter Notebook or JupyterLab
+
+## Reference
+The notebooks in this repo are all based on lectures given by [Chirag Raman](https://chiragraman.com/about/) and his PhD students during the course Generative Modeling at TU Delft.
